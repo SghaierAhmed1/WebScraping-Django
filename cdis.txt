@@ -1,0 +1,54 @@
+{
+    "cdis": {
+        "ASTRO BOT Rescue Mission ": {
+            "Genre": " Action, Plateforme",
+            "Image": "https://www.cdiscount.com/pdt2/0/1/0/1/700x700/711719762010/rw/astro-bot-rescue-mission-jeu-psvr.jpg",
+            "Prix": "14\u20ac98"
+        },
+        "Dirt Rally 2.0 Edition Game of the Year ": {
+            "Genre": " Course",
+            "Image": "https://www.cdiscount.com/pdt2/6/5/5/1/700x700/4020628725655/rw/dirt-rally-2-0-edition-game-of-the-year-jeu-ps4.jpg",
+            "Prix": "42\u20ac99"
+        },
+        "Dishonored 2 ": {
+            "Genre": " Action",
+            "Image": "https://www.cdiscount.com/pdt2/p/s/4/1/700x700/dishonored2ps4/rw/dishonored-2-jeu-ps4.jpg",
+            "Prix": "7\u20ac80"
+        },
+        "F1 2019 ": {
+            "Genre": " Course",
+            "Image": "https://www.cdiscount.com/pdt2/4/8/0/1/700x700/4020628747480/rw/f1-2019-jeu-ps4.jpg",
+            "Prix": "36\u20ac16"
+        },
+        "FIFA 20 ": {
+            "Genre": " Sport",
+            "Image": "https://www.cdiscount.com/pdt2/9/7/0/1/700x700/eas7141141003970/rw/fifa-20-jeu-ps4.jpg",
+            "Prix": "26\u20ac99"
+        },
+        "Final Fantasy XV Edition Royale ": {
+            "Genre": " Action",
+            "Image": "https://www.cdiscount.com/pdt2/5/7/7/1/700x700/5021290080577/rw/final-fantasy-xv-edition-royale-jeu-ps4.jpg",
+            "Prix": "16\u20ac45"
+        },
+        "Fire Emblem Fates: Conqu\u00eate ": {
+            "Genre": " Jeu de r\u00f4le",
+            "Image": "https://www.cdiscount.com/pdt2/3/8/2/1/700x700/0045496472382/rw/fire-emblem-fates-conquete-jeu-3ds.jpg",
+            "Prix": "12\u20ac27"
+        },
+        "SnowRunner ": {
+            "Genre": " Course, Simulation",
+            "Image": "https://www.cdiscount.com/pdt2/6/4/2/1/700x700/3512899122642/rw/snowrunner-jeu-pc.jpg",
+            "Prix": "39\u20ac99"
+        },
+        "The Last of Us Part II ": {
+            "Genre": " Action, Horreur",
+            "Image": "https://www.cdiscount.com/pdt2/o/u/2/1/700x700/tlou2/rw/the-last-of-us-part-ii-jeu-ps4.jpg",
+            "Prix": "64\u20ac99"
+        },
+        "Yo kai Watch 3 ": {
+            "Genre": " Action",
+            "Image": "https://www.cdiscount.com/pdt2/1/1/7/1/700x700/45496478117/rw/yo-kai-watch-3-jeu-3ds.jpg",
+            "Prix": "48\u20ac99"
+        }
+    }
+}

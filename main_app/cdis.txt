@@ -1,0 +1,14 @@
+{
+    "cdis": {
+        "Dirt Rally 2.0 Edition Game of the Year ": {
+            "Genre": " Course",
+            "Image": "https://www.cdiscount.com/pdt2/6/5/5/1/065x065/4020628725655/rw/dirt-rally-2-0-edition-game-of-the-year-jeu-ps4.jpg",
+            "Prix": "45\u20ac95"
+        },
+        "Fire Emblem Fates: Conqu\u00eate ": {
+            "Genre": " Jeu de r\u00f4le",
+            "Image": "https://www.cdiscount.com/pdt2/3/8/2/1/065x065/0045496472382/rw/fire-emblem-fates-conquete-jeu-3ds.jpg",
+            "Prix": "14\u20ac45"
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "IG": {
+        "Bus Mechanic Simulator ": {
+            "Genre": "Indies",
+            "Image": "https://s2.gaming-cdn.com/images/products/5593/271x377/bus-mechanic-simulator-cover.jpg",
+            "Prix": "16.89\u20ac"
+        },
+        "Cyberpunk 2077": {
+            "Genre": "Action",
+            "Image": "https://s1.gaming-cdn.com/images/products/840/271x377/cyberpunk-2077-cover.jpg",
+            "Prix": "42.99\u20ac"
+        },
+        "Dead by Daylight": {
+            "Genre": "Action",
+            "Image": "https://s3.gaming-cdn.com/images/products/1904/271x377/dead-by-daylight-cover.jpg",
+            "Prix": "6.29\u20ac"
+        },
+        "Death World [Early Access]": {
+            "Genre": "Action",
+            "Image": "https://s3.gaming-cdn.com/images/products/6812/271x377/death-world-early-access-cover.jpg",
+            "Prix": "2.70\u20ac"
+        },
+        "Desperados III Digital Deluxe": {
+            "Genre": "Action",
+            "Image": "https://s1.gaming-cdn.com/images/products/6873/271x377/desperados-iii-digital-deluxe-cover.jpg",
+            "Prix": "34.99\u20ac"
+        },
+        "Destroy All Humans!": {
+            "Genre": "Action",
+            "Image": "https://s1.gaming-cdn.com/images/products/5802/271x377/destroy-all-humans-cover.jpg",
+            "Prix": "21.99\u20ac"
+        },
+        "F1 2020 Deluxe Schumacher Edition": {
+            "Genre": "Racing",
+            "Image": "https://s2.gaming-cdn.com/images/products/6862/271x377/f1-2020-deluxe-schumacher-edition-cover.jpg",
+            "Prix": "39.49\u20ac"
+        },
+        "F1 2020 Seventy Edition": {
+            "Genre": "Racing",
+            "Image": "https://s1.gaming-cdn.com/images/products/6789/271x377/f1-2020-seventy-edition-cover.jpg",
+            "Prix": "33.99\u20ac"
+        },
+        "Grand Theft Auto V": {
+            "Genre": "Action",
+            "Image": "https://s1.gaming-cdn.com/images/products/186/271x377/grand-theft-auto-v-cover.jpg",
+            "Prix": "11.99\u20ac"
+        },
+        "Grand Theft Auto V: Premium Online Edition": {
+            "Genre": "Action",
+            "Image": "https://s3.gaming-cdn.com/images/products/4211/271x377/grand-theft-auto-v-premium-online-edition-cover.jpg",
+            "Prix": "13.49\u20ac"
+        },
+        "Green Hell": {
+            "Genre": "Action",
+            "Image": "https://s3.gaming-cdn.com/images/products/5639/271x377/green-hell-cover.jpg",
+            "Prix": "10.51\u20ac"
+        },
+        "Maneater": {
+            "Genre": "Action",
+            "Image": "https://s1.gaming-cdn.com/images/products/5985/271x377/maneater-cover.jpg",
+            "Prix": "26.49\u20ac"
+        },
+        "Mortal Kombat 11 Aftermath": {
+            "Genre": "Action",
+            "Image": "https://s2.gaming-cdn.com/images/products/6853/271x377/mortal-kombat-11-aftermath-cover.jpg",
+            "Prix": "30.49\u20ac"
+        },
+        "Pro Cycling Manager 2020": {
+            "Genre": "Simulation",
+            "Image": "https://s2.gaming-cdn.com/images/products/6658/271x377/pro-cycling-manager-2020-cover.jpg",
+            "Prix": "24.49\u20ac"
+        },
+        "The Elder Scrolls Online: Greymoor - Standard Edition": {
+            "Genre": "Action",
+            "Image": "https://s2.gaming-cdn.com/images/products/6193/271x377/the-elder-scrolls-online-greymoor-standard-edition-cover.jpg",
+            "Prix": "29.99\u20ac"
+        },
+        "The Sims 4 Eco Lifestyle": {
+            "Genre": "Simulation",
+            "Image": "https://s2.gaming-cdn.com/images/products/6898/271x377/the-sims-4-eco-lifestyle-cover.jpg",
+            "Prix": "28.98\u20ac"
+        },
+        "Total War: Warhammer II - The Warden & The Paunch (Europe)": {
+            "Genre": "Action",
+            "Image": "https://s3.gaming-cdn.com/images/products/6914/271x377/total-war-warhammer-ii-the-warden-the-paunch-cover.jpg",
+            "Prix": "6.69\u20ac"
+        }
+    }
+}

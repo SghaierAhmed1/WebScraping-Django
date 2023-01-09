@@ -1,0 +1,28 @@
+{
+    "G2G": {
+        "Desperados 3 (PC)": {
+            "Genre": "Strategy",
+            "Prix": "\u00a349.99"
+        },
+        "MXGP 2019 (PC)": {
+            "Genre": "Driving",
+            "Prix": "\u00a322.99"
+        },
+        "MotoGP 19 (PC)": {
+            "Genre": "Driving",
+            "Prix": "\u00a341.99"
+        },
+        "Sniper Ghost Warrior Contracts (PC)": {
+            "Genre": "Action, FPS",
+            "Prix": "\u00a326.99"
+        },
+        "The Sims 4 and Discover University Expansion Pack (PC)": {
+            "Genre": "Simulation, Strategy",
+            "Prix": "\u00a340.99"
+        },
+        "Vampire The Masquerade Bloodlines 2 First Blood Edition  (PC)": {
+            "Genre": "RPG",
+            "Prix": "\u00a354.99"
+        }
+    }
+}
